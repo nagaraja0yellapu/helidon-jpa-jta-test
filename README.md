@@ -1,6 +1,6 @@
-# Helidon Quickstart MP Example
+# Helidon Quickstart MP + JPA + JTA Example
 
-This example implements a simple Hello World REST service using MicroProfile.
+This example implements a simple Hello World REST service using MicroProfile + JPA + JTA to test Transactions
 
 ## Build and run
 
